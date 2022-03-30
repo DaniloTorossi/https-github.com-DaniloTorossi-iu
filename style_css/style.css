@@ -566,7 +566,6 @@ section {
   color: #5e5e5e; }
 
 .about-boxes .card:hover .card-icon i {
-  background: #fff;
   color: #ff4a17; }
 
 @media (max-width: 1024px) {
